@@ -1,12 +1,13 @@
 <center>
-	<img src="https://media.giphy.com/media/RrVzUOXldFe8M/giphy.gif" 
+	<img src="https://media0.giphy.com/media/jKaFXbKyZFja0/200_d.gif?cid=c247f343h1wzo9hy75rs30bmyoxmnhuws6es06jgx044ryut&rid=200_d.gif" 
 		width="300" 
 		height="250"
-		alt="Hell Yeah!"
+		alt="Lets Eat!"
 	/>
 </center>
 
-# React/TS/Storybook Boilerplate
+# Diet Tracking App
+#### Made in React With Love.
 
 **Stack Technologies:**
 - React
