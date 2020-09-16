@@ -1,5 +1,5 @@
 {
-  "name": "reacttsboilerplate",
+  "name": "diet-tracking-app",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
@@ -54,6 +54,6 @@
     ]
   },
   "repository": {
-    "url": "https://github.com/Keenyy1997/react-ts-boilerplate"
+    "url": "https://github.com/Keenyy1997/diet-track-app"
   }
 }
